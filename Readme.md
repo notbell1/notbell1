@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/notbell1">
+<a href="https://github.com/notbell1" target=_blank>
 <img src="https://img.shields.io/badge/GITHUB-notbell1-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
