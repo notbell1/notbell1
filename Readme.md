@@ -1,66 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NOTBELL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%20DIGITAL%20BUILDER&descAlignY=60&descSize=16&color=0:050505,50:111111,100:1a1a1a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=NOTBELL&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=18&animation=fadeIn&color=0:050505,45:0b0b0b,75:151515,100:202020" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;FULL+STACK+DEVELOPER;BUILDING+DIGITAL+EXPERIENCES;TYPESCRIPT+%2F+REACT+%2F+PHP;DESIGN+%2F+CODE+%2F+SYSTEMS;WELCOME+TO+MY+DIGITAL+SPACE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=SYSTEM+INITIALIZING...;WELCOME+TO+NOTBELL'S+DIGITAL+SPACE;FULL+STACK+DEVELOPER;TYPESCRIPT+%2F+REACT+%2F+PHP;WEB+%2F+EXTENSIONS+%2F+SYSTEMS;BUILDING+IDEAS+INTO+SOFTWARE;SYSTEM+ONLINE." alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/notbell1">
-<img src="https://img.shields.io/badge/GITHUB-notbell1-050505?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-notbell1-050505?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
+
 <a href="https://github.com/notbell1?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-05-111111?style=for-the-badge&logo=github&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/REPOSITORIES-05-050505?style=for-the-badge&logo=github&logoColor=00ff9c" />
 </a>
+
 <a href="https://github.com/notbell1?tab=stars">
-<img src="https://img.shields.io/badge/STARS-04-111111?style=for-the-badge&logo=github&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/STARS-04-050505?style=for-the-badge&logo=github&logoColor=00ff9c" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=notbell1&style=for-the-badge&color=111111&label=PROFILE+SIGNALS" />
+<img src="https://komarev.com/ghpvc/?username=notbell1&style=for-the-badge&color=111111&label=PROFILE+SIGNALS"/>
 
 </div>
 
+<br>
+
 ---
+
+# <div align="center"><b><font color="#ff3b30">ABOUT</font></b></div>
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   N O T B E L L   //   D I G I T A L   W O R K S P A C E       ║
-║                                                                  ║
-║   FULL STACK DEVELOPER                                           ║
-║   WEB • EXTENSIONS • UI • SYSTEMS • EXPERIMENTS                 ║
-║                                                                  ║
-║   STATUS :: ONLINE                                               ║
-║   MODE   :: BUILDING                                             ║
-║   SIGNAL :: ████████████████████████████████████████ 100%       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                         N O T B E L L                              ║
+║                                                                    ║
+║                    FULL STACK DEVELOPER                            ║
+║                                                                    ║
+║     WEB DEVELOPMENT  •  FRONTEND  •  BACKEND  •  SYSTEMS         ║
+║                                                                    ║
+║                  BUILDING DIGITAL EXPERIENCES                      ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-## `01 // ABOUT`
+<br>
 
 ```js
 const developer = {
     username: "notbell1",
     role: "Full Stack Developer",
-
-    interests: [
-        "Web Development",
-        "Frontend Engineering",
-        "Backend Development",
-        "Browser Extensions",
-        "Developer Tools",
-        "UI / UX",
-        "Experimental Projects"
-    ],
 
     languages: [
         "TypeScript",
@@ -79,11 +74,11 @@ const developer = {
         "Supabase"
     ],
 
-    styling: [
-        "Tailwind CSS",
-        "Bootstrap",
+    frontend: [
         "HTML5",
-        "CSS3"
+        "CSS3",
+        "Tailwind CSS",
+        "Bootstrap"
     ],
 
     infrastructure: [
@@ -91,25 +86,27 @@ const developer = {
         "Wuaze"
     ],
 
-    workflow: [
+    tools: [
         "Git",
         "GitHub",
         "VS Code"
     ],
 
-    philosophy: "Build. Break. Learn. Rebuild."
+    philosophy: "Build. Learn. Improve. Repeat."
 };
 ```
 
 <div align="center">
 
-### `BUILDING SOFTWARE WITH CODE + DESIGN + CURIOSITY`
+**CODE IS THE TOOL.  
+DESIGN IS THE INTERFACE.  
+IDEAS ARE THE SYSTEM.**
 
 </div>
 
 ---
 
-# `02 // TECHNOLOGY MATRIX`
+# <div align="center"><b><font color="#ff3b30">TECHNOLOGY MATRIX</font></b></div>
 
 <div align="center">
 
@@ -125,19 +122,19 @@ const developer = {
 
 <br><br>
 
-### `DATABASE / BACKEND SERVICES`
+### `DATABASE`
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 
 <br><br>
 
-### `WEB / UI`
+### `WEB & UI`
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 
 <br><br>
 
-### `TOOLS / DEVELOPMENT`
+### `DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -149,182 +146,202 @@ const developer = {
 
 </div>
 
----
-
-# `03 // PROJECT DATABASE`
-
-> Selected projects from my public GitHub repositories.
-
 <br>
-
-## `01` — Nottbell Creative Portfolio
 
 <div align="center">
 
 ```text
 ┌───────────────────────────────────────────────────────────────┐
+│                       TECHNOLOGY STACK                        │
+├───────────────────────────────────────────────────────────────┤
 │                                                               │
-│                 N O T T B E L L   P O R T F O L I O          │
-│                                                               │
-│   CYBER AESTHETIC                                             │
-│   SPA ARCHITECTURE                                            │
-│   DYNAMIC PROJECT SYSTEM                                      │
-│   INTERACTIVE UI                                              │
+│  TYPESCRIPT    ████████████████████████████████████          │
+│  JAVASCRIPT    ██████████████████████████████████            │
+│  PHP           ███████████████████████████████               │
+│  REACT         █████████████████████████████████             │
+│  LARAVEL       █████████████████████████████                 │
+│  DATABASE      ████████████████████████████████              │
+│  UI / CSS      ██████████████████████████████████            │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
+---
+
+# <div align="center"><b><font color="#ff3b30">PROJECTS</font></b></div>
+
+<div align="center">
+
+### `N O T T B E L L   P O R T F O L I O`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 N O T T B E L L   P O R T F O L I O         ║
+║                                                              ║
+║                  CREATIVE WEB EXPERIENCE                     ║
+║                                                              ║
+║    SPA ARCHITECTURE       ████████████████                   ║
+║    DYNAMIC CONTENT        ██████████████████                 ║
+║    CYBER UI               ███████████████████                ║
+║    RESPONSIVE DESIGN      ████████████████████               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 <a href="https://github.com/notbell1/portfolio">
-<img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
 
-<a href="https://nottbell.vercel.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<br><br>
+
+`JavaScript` `Vite` `Tailwind CSS` `Lucide` `Prism.js` `Vercel`
 
 </div>
 
-**Stack**
-
-`JavaScript` `Tailwind CSS` `Vite` `Lucide` `Prism.js` `Vercel`
+**Nottbell Creative Portfolio** adalah project portfolio web dengan pendekatan visual cyber dan interactive interface.
 
 **Highlights**
 
 - SPA architecture
 - Custom routing
-- Dynamic project & news system
-- Cyber-aesthetic UI
+- Dynamic project system
+- Dynamic news system
+- Cyber-aesthetic interface
 - Glassmorphism
 - Grid-based layout
 - Typing animation
 - Smooth scrolling
-- Responsive interface
+- Responsive design
 - Vercel deployment
-
-Repository: **notbell1/portfolio**
 
 ---
 
-## `02` — CORE VITALITY
-
 <div align="center">
 
+### `C O R E   V I T A L I T Y`
+
 ```text
-             ╭─────────────────────────────╮
-             │       CORE VITALITY          │
-             │                              │
-             │      ◉ HEALTH   ████████     │
-             │      ◉ ENERGY   ██████       │
-             │      ◉ MOOD     ███████      │
-             │                              │
-             │        SYSTEM ACTIVE         │
-             ╰─────────────────────────────╯
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                      CORE VITALITY                           ║
+║                                                              ║
+║                     ◉ SYSTEM ACTIVE                          ║
+║                                                              ║
+║       HEALTH       ████████████████████                      ║
+║       ENERGY       ██████████████████                        ║
+║       MOOD         ███████████████████                       ║
+║       ACTIVITY     ████████████████████                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <a href="https://github.com/notbell1/core-vitality">
-<img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
 
-</div>
-
-**Concept**
-
-An experimental ultra-luxury coding vitality dashboard for VS Code.
-
-**Highlights**
-
-- 5-stage animated SVG character
-- Nebula animated background
-- Realtime vitality indicators
-- Health / Energy / Happiness metrics
-- Smart coding analytics
-- Hacker-style clock
-- VS Code integration
-
-**Stack**
+<br><br>
 
 `TypeScript` `VS Code API` `SVG` `Webpack`
 
-Repository: **notbell1/core-vitality**
-
----
-
-## `03` — ZX Theme
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════╗
-║  Z X   T H E M E                             ║
-║                                              ║
-║  DARK CHARCOAL                               ║
-║  DEEP RED                                    ║
-║  NEON GREEN                                  ║
-║  HIGH CONTRAST                               ║
-║                                              ║
-║  > CODE WITHOUT DISTRACTION_                 ║
-╚══════════════════════════════════════════════╝
-```
-
-<a href="https://github.com/notbell1/zx-theme">
-<img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=00ff9c" />
-</a>
-
 </div>
 
-**Concept**
-
-A modern dark VS Code theme focused on high contrast, deep charcoal surfaces, and aggressive red accents.
+Experimental VS Code extension/dashboard dengan visual interface yang menggabungkan animated SVG, realtime metrics, analytics, dan developer-oriented dashboard.
 
 **Highlights**
 
-- Deep charcoal interface
-- High-contrast syntax
-- Fresh red accents
-- Neon green secondary accent
-- PHP syntax support
-- JavaScript syntax support
-- Laravel-oriented styling
-- Luau support
-- Minimal developer workspace
-
-**Stack**
-
-`VS Code Theme` `JSON` `JavaScript` `PHP` `Laravel` `Luau`
-
-Repository: **notbell1/zx-theme**
+- Animated SVG character
+- Nebula background
+- Realtime vitality metrics
+- Health metrics
+- Energy metrics
+- Happiness metrics
+- Coding analytics
+- Hacker-style clock
+- VS Code integration
 
 ---
 
-## `04` — Nttbell Assistant
-
 <div align="center">
 
+### `Z X   T H E M E`
+
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    N T T B E L L                             │
-│                                                              │
-│                PRIVACY LAYER :: ACTIVE                       │
-│                                                              │
-│    MESSAGES       ████████████████                           │
-│    CONTACTS       ██████████████                             │
-│    MEDIA          ████████████                               │
-│    FILES          ██████████                                 │
-│    PREVIEW        ████████████                               │
-│                                                              │
-│                 VISUAL PRIVACY                               │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                         Z X   T H E M E                      ║
+║                                                              ║
+║                   DARK DEVELOPER WORKSPACE                  ║
+║                                                              ║
+║       DARK CHARCOAL     ███████████████████                 ║
+║       RED ACCENT        ███████████████                     ║
+║       GREEN ACCENT      █████████████████                   ║
+║       CONTRAST          ████████████████████                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://github.com/notbell1/nttbell-assistant">
-<img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=00ff9c" />
+<a href="https://github.com/notbell1/zx-theme">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
+
+<br><br>
+
+`VS Code` `PHP` `JavaScript` `Laravel` `Luau`
 
 </div>
 
-**Concept**
+Dark VS Code theme yang dirancang dengan deep-charcoal interface, red accent, green accent, dan high-contrast syntax.
 
-A privacy-focused browser extension for WhatsApp Web that provides a configurable visual privacy layer.
+**Highlights**
+
+- Dark developer interface
+- Deep charcoal background
+- High contrast syntax
+- Red accent
+- Green secondary accent
+- PHP support
+- JavaScript support
+- Laravel-oriented styling
+- Luau support
+
+---
+
+<div align="center">
+
+### `N T T B E L L   A S S I S T A N T`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                    NTTBELL ASSISTANT                         ║
+║                                                              ║
+║                    PRIVACY LAYER                             ║
+║                                                              ║
+║       MESSAGE         ███████████████████                    ║
+║       CONTACT         █████████████████                     ║
+║       MEDIA           ███████████████                       ║
+║       FILE            ██████████████                        ║
+║       PREVIEW         ████████████████                      ║
+║                                                              ║
+║                    VISUAL PRIVACY                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<a href="https://github.com/notbell1/nttbell-assistant">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a>
+
+<br><br>
+
+`TypeScript` `Vite` `Chrome API` `Manifest V3`
+
+</div>
+
+Privacy-focused Chrome extension untuk WhatsApp Web dengan configurable visual privacy layer.
 
 **Highlights**
 
@@ -338,59 +355,57 @@ A privacy-focused browser extension for WhatsApp Web that provides a configurabl
 - Chat-preview blur
 - Adjustable blur intensity
 - Hover-to-reveal
-- Light / dark mode
 - Local Chrome Storage
 - MutationObserver
 - Manifest V3
 
-**Stack**
-
-`TypeScript` `CSS3` `Vite` `Chrome Extension API` `Manifest V3`
-
-Repository: **notbell1/nttbell-assistant**
-
 ---
 
-# `04 // PROJECT MAP`
+# <div align="center"><b><font color="#ff3b30">PROJECT ARCHITECTURE</font></b></div>
 
 <div align="center">
 
 ```text
-                         ┌──────────────────────┐
-                         │       NOTBELL        │
-                         │     PROJECT HUB      │
-                         └──────────┬───────────┘
-                                    │
-             ┌──────────────────────┼──────────────────────┐
-             │                      │                      │
-             ▼                      ▼                      ▼
-      ┌─────────────┐        ┌─────────────┐       ┌─────────────┐
-      │   WEB       │        │  EXTENSION  │       │   EDITOR    │
-      │             │        │             │       │             │
-      │  Portfolio  │        │  Nttbell    │       │  ZX Theme   │
-      │             │        │  Assistant  │       │             │
-      └─────────────┘        └─────────────┘       └─────────────┘
-             │                      │                      │
-             └──────────────────────┼──────────────────────┘
-                                    │
-                                    ▼
-                           ┌─────────────────┐
-                           │ CORE VITALITY   │
-                           │                 │
-                           │ EXPERIMENTAL    │
-                           │ DEVELOPER TOOL  │
-                           └─────────────────┘
+                              ┌─────────────────────┐
+                              │                     │
+                              │       NOTBELL       │
+                              │                     │
+                              │    PROJECT CORE     │
+                              │                     │
+                              └──────────┬──────────┘
+                                         │
+             ┌───────────────────────────┼───────────────────────────┐
+             │                           │                           │
+             ▼                           ▼                           ▼
+    ┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
+    │                 │        │                 │        │                 │
+    │      WEB        │        │   EXTENSIONS    │        │      EDITOR     │
+    │                 │        │                 │        │                 │
+    │   PORTFOLIO     │        │   NTTBELL       │        │    ZX THEME     │
+    │                 │        │   ASSISTANT      │        │                 │
+    └────────┬────────┘        └────────┬────────┘        └────────┬────────┘
+             │                          │                          │
+             └──────────────────────────┼──────────────────────────┘
+                                        │
+                                        ▼
+                              ┌─────────────────────┐
+                              │                     │
+                              │    CORE VITALITY    │
+                              │                     │
+                              │   DEV EXPERIMENTS   │
+                              │                     │
+                              └─────────────────────┘
 ```
 
 </div>
 
 ---
 
-# `05 // DEVELOPMENT STACK`
+# <div align="center"><b><font color="#ff3b30">DEVELOPMENT STACK</font></b></div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### `FRONTEND`
 
@@ -405,7 +420,8 @@ Bootstrap
 ```
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### `BACKEND`
 
@@ -421,62 +437,111 @@ Supabase
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### `DEVOPS / DEPLOYMENT`
+### `DEPLOYMENT`
 
 ```text
-Git
-GitHub
 Vercel
 Wuaze
 ```
 
 </td>
-<td width="50%">
 
-### `WORKSPACE`
+<td width="50%" valign="top">
+
+### `WORKFLOW`
 
 ```text
-Visual Studio Code
 Git
 GitHub
-Browser DevTools
+Visual Studio Code
 ```
 
 </td>
 </tr>
 </table>
 
----
-
-# `06 // CURRENT MODE`
-
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                      SYSTEM STATUS                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  FRONTEND        ████████████████████████░░  ACTIVE          │
-│  BACKEND         ██████████████████████░░░░  ACTIVE          │
-│  DATABASE        ████████████████████░░░░░░  ACTIVE          │
-│  UI / UX         ███████████████████████░░░  ACTIVE          │
-│  EXPERIMENTS     ██████████████████████████  ACTIVE          │
-│                                                              │
-│  SYSTEM         :: ONLINE                                    │
-│  DEVELOPMENT    :: RUNNING                                   │
-│  MODE           :: BUILD                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                 ┌───────────────┐
+                 │     IDEAS     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │     CODE      │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │     TEST      │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    DEPLOY     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    IMPROVE    │
+                 └───────────────┘
 ```
 
 </div>
 
 ---
 
-# `07 // TERMINAL`
+# <div align="center"><b><font color="#ff3b30">CURRENT MODE</font></b></div>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                       SYSTEM STATUS                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  FRONTEND       ████████████████████████████░░░░             ║
+║  BACKEND        ██████████████████████████░░░░░              ║
+║  DATABASE       ████████████████████████░░░░░░              ║
+║  UI / UX        █████████████████████████████░              ║
+║  EXPERIMENTS    ███████████████████████████████             ║
+║                                                              ║
+║  DEVELOPMENT    :: ACTIVE                                    ║
+║  BUILD          :: RUNNING                                   ║
+║  SYSTEM         :: ONLINE                                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+```text
+[ SYSTEM LOG ]
+
+> booting developer environment...
+> loading TypeScript...
+> loading React...
+> loading PHP...
+> loading Laravel...
+> connecting databases...
+> initializing Git...
+> connecting GitHub...
+> preparing deployment...
+> scanning repositories...
+> projects detected: 4
+> system status: ONLINE
+
+[ READY ]
+```
+
+---
+
+# <div align="center"><b><font color="#ff3b30">TERMINAL</font></b></div>
 
 ```bash
 ┌──(notbell㉿github)-[~/workspace]
@@ -510,10 +575,25 @@ PostgreSQL
 Supabase
 
 ┌──(notbell㉿github)-[~/workspace]
-└─$ deploy
+└─$ frontend
+
+HTML5
+CSS3
+Tailwind CSS
+Bootstrap
+
+┌──(notbell㉿github)-[~/workspace]
+└─$ deployment
 
 Vercel
 Wuaze
+
+┌──(notbell㉿github)-[~/workspace]
+└─$ workflow
+
+Git
+GitHub
+VS Code
 
 ┌──(notbell㉿github)-[~/workspace]
 └─$ status
@@ -523,148 +603,212 @@ Wuaze
 
 ---
 
-# `08 // GITHUB SIGNAL`
+# <div align="center"><b><font color="#ff3b30">GITHUB SIGNAL</font></b></div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=notbell1&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=notbell1&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&rank_icon=github" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbell1&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=ffffff" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbell1&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=ffffff" width="42%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=notbell1&theme=dark&hide_border=true&background=050505&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="70%" />
+<img src="https://streak-stats.demolab.com?user=notbell1&theme=dark&hide_border=true&background=050505&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="70%"/>
 
 </div>
 
 ---
 
-# `09 // CONTRIBUTION MATRIX`
+# <div align="center"><b><font color="#ff3b30">CONTRIBUTION MATRIX</font></b></div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=notbell1&bg_color=050505&color=ffffff&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%" />
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                  G I T H U B   A C T I V I T Y                  ║
+║                                                                  ║
+║   MON     ░ ░ ▒ ▒ ▓ █ █ ▓ ░ ▒ ▓ █ █ ▓ ░ ▒ ▓ █ █              ║
+║   TUE     ░ ▒ ▓ █ ▓ ░ ▒ ▓ █ ▓ ▒ ░ ▓ █ ▓ ░ ▒ ▓ █              ║
+║   WED     ▒ ▓ █ ▓ ░ ▒ ▓ █ █ ▓ ░ ▒ ▓ █ ▓ ▒ ░ ▓ █              ║
+║   THU     ▓ █ ▓ ░ ▒ ▓ █ ▓ ░ ▒ ▓ █ ▓ ░ ▒ ▓ █ ▓              ║
+║   FRI     █ ▓ ░ ▒ ▓ █ ▓ ░ ▒ ▓ █ █ ▓ ░ ▒ ▓ █              ║
+║   SAT     ▓ ░ ▒ ▓ █ ▓ ░ ▒ ▓ █ ▓ ░ ▒ ▓ █ ▓ ░              ║
+║   SUN     ░ ▒ ▓ █ ▓ ░ ▒ ▓ █ ▓ ░ ▒ ▓ █ ▓ ▒              ║
+║                                                                  ║
+║              ░ LOW     ▒ MEDIUM     ▓ HIGH     █ MAX           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<a href="https://github.com/notbell1">
+<img src="https://img.shields.io/badge/OPEN_GITHUB_ACTIVITY-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**BUILD • COMMIT • PUSH • REPEAT**
 
 </div>
 
 ---
 
-# `10 // DIGITAL IDENTITY`
+# <div align="center"><b><font color="#ff3b30">DIGITAL IDENTITY</font></b></div>
 
 <details>
-<summary><b>OPEN DEVELOPER PROFILE</b></summary>
+<summary><b>▸ OPEN DEVELOPER PROFILE</b></summary>
 
 <br>
 
 ```json
 {
-  "identity": {
     "username": "notbell1",
-    "role": "Full Stack Developer"
-  },
 
-  "languages": [
-    "TypeScript",
-    "JavaScript",
-    "PHP"
-  ],
+    "role": "Full Stack Developer",
 
-  "frameworks": [
-    "React",
-    "Laravel"
-  ],
+    "languages": [
+        "TypeScript",
+        "JavaScript",
+        "PHP"
+    ],
 
-  "databases": [
-    "MySQL",
-    "PostgreSQL",
-    "Supabase"
-  ],
+    "frameworks": [
+        "React",
+        "Laravel"
+    ],
 
-  "frontend": [
-    "HTML5",
-    "CSS3",
-    "Tailwind CSS",
-    "Bootstrap"
-  ],
+    "databases": [
+        "MySQL",
+        "PostgreSQL",
+        "Supabase"
+    ],
 
-  "platforms": [
-    "Vercel",
-    "Wuaze"
-  ],
+    "frontend": [
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
 
-  "workflow": [
-    "Git",
-    "GitHub",
-    "VS Code"
-  ],
+    "deployment": [
+        "Vercel",
+        "Wuaze"
+    ],
 
-  "repositories": [
-    "portfolio",
-    "core-vitality",
-    "zx-theme",
-    "nttbell-assistant"
-  ],
+    "development": [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
 
-  "mode": "BUILDING"
+    "repositories": [
+        "portfolio",
+        "core-vitality",
+        "zx-theme",
+        "nttbell-assistant"
+    ],
+
+    "status": "ONLINE"
 }
 ```
 
 </details>
 
+<br>
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│             DIGITAL IDENTITY VERIFIED              │
+│                                                    │
+│             USER       : NOTBELL1                  │
+│             ROLE       : DEVELOPER                 │
+│             ACCESS     : PUBLIC                    │
+│             STATUS     : ONLINE                    │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+</div>
+
 ---
 
-# `11 // REPOSITORIES`
+# <div align="center"><b><font color="#ff3b30">REPOSITORIES</font></b></div>
 
 <div align="center">
 
 <a href="https://github.com/notbell1/portfolio">
-<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=github&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
 
 <a href="https://github.com/notbell1/core-vitality">
-<img src="https://img.shields.io/badge/CORE_VITALITY-050505?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/CORE_VITALITY-050505?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9c"/>
 </a>
 
 <a href="https://github.com/notbell1/zx-theme">
-<img src="https://img.shields.io/badge/ZX_THEME-050505?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/ZX_THEME-050505?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9c"/>
 </a>
 
 <a href="https://github.com/notbell1/nttbell-assistant">
-<img src="https://img.shields.io/badge/NTTBELL_ASSISTANT-050505?style=for-the-badge&logo=googlechrome&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/NTTBELL_ASSISTANT-050505?style=for-the-badge&logo=googlechrome&logoColor=00ff9c"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/notbell1?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 </div>
 
 ---
 
-# `12 // CONNECT`
+# <div align="center"><b><font color="#ff3b30">CONNECT</font></b></div>
 
 <div align="center">
 
 <a href="https://github.com/notbell1">
-<img src="https://img.shields.io/badge/GITHUB-notbell1-050505?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-notbell1-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <br><br>
 
 ```text
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│             THANK YOU FOR VISITING                    │
-│                                                       │
-│       CODE IS THE INTERFACE.                          │
-│       IDEAS ARE THE ARCHITECTURE.                     │
-│       BUILD SOMETHING WORTH REMEMBERING.              │
-│                                                       │
-└───────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  CONNECTION ESTABLISHED                      ║
+║                                                              ║
+║              GITHUB      :: NOTBELL1                         ║
+║              STATUS      :: ONLINE                           ║
+║              MODE        :: BUILDING                         ║
+║                                                              ║
+║          THANK YOU FOR ENTERING MY DIGITAL SPACE             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=0:050505,50:111111,100:1a1a1a" width="100%"/>
+<br>
+
+`CODE` &nbsp; `DESIGN` &nbsp; `SYSTEMS` &nbsp; `EXPERIMENTS`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=fadeIn&color=0:050505,45:0b0b0b,75:151515,100:202020" width="100%"/>
 
 </div>
 
 <div align="center">
 
-`NOTBELL1` · `FULL STACK DEVELOPER` · `BUILD MODE: ON`
+**NOTBELL1 · FULL STACK DEVELOPER**
+
+`BUILD SOMETHING WORTH REMEMBERING.`
 
 </div>
