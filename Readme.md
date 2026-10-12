@@ -6,7 +6,7 @@
 <br>
 
 <!-- TYPING ANIMATION (MELANCHOLIC GAMER THEME) -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=20&duration=2800&pause=800&color=FB7185&center=true&vCenter=true&width=860&lines=MUNGKIN+GIT+COMMIT+BISA+DI-REVERT...;TAPI+KENANGAN+TENTANGMU+TIDAK.;ERROR+404:+LOVE+NOT+FOUND+IN+THIS+HEART;MENGAUDIT+RIBUAN+SISTEM,+GAGAL+MENGAUDIT+HATINYA+SENDIRI.;HP:+0/100+[CRITICAL+HEARTBREAK]+•+MP:+999/999+[MELANCHOLY];WELCOME+TO+NOTBELL'S+NOCTURNAL+REALM." alt="Melancholic Typing Quotes"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=FB7185&center=true&vCenter=true&width=860&lines=MUNGKIN+GIT+COMMIT+BISA+DI-REVERT...;TAPI+KENANGAN+TENTANGMU+TIDAK.;ERROR+404:+LOVE+NOT+FOUND+IN+THIS+HEART;MENGAUDIT+RIBUAN+SISTEM,+GAGAL+MENGAUDIT+HATINYA+SENDIRI.;HP:+0/100+[CRITICAL+HEARTBREAK]+-+MP:+999/999+[MELANCHOLY];WELCOME+TO+NOTBELL'S+NOCTURNAL+REALM." alt="Melancholic Typing Quotes"/>
 
 <br><br>
 
@@ -18,10 +18,10 @@
 <img src="https://img.shields.io/badge/QUESTS-07_PROJECTS-0b0407?style=for-the-badge&logo=git&logoColor=f43f5e"/>
 </a>
 <a href="#-interactive-rpg-dialogues">
-<img src="https://img.shields.io/badge/GAME_MODE-MELANCHOLY_RPG-0b0407?style=for-the-badge&logo=gamepad&logoColor=fb7185"/>
+<img src="https://img.shields.io/badge/GAME_MODE-MELANCHOLY_RPG-0b0407?style=for-the-badge&logoColor=fb7185"/>
 </a>
-<a href="#-the-six-relics--projects">
-<img src="https://img.shields.io/badge/STATUS-BROKEN_HEART-0b0407?style=for-the-badge&logo=heart&logoColor=e11d48"/>
+<a href="#-the-six-relics-of-creation-portfolio">
+<img src="https://img.shields.io/badge/STATUS-BROKEN_HEART-0b0407?style=for-the-badge&logoColor=e11d48"/>
 </a>
 
 <br><br>
@@ -606,7 +606,7 @@ Connection terminated by remote host.
 </a>
 &nbsp;
 <a href="mailto:abbelkadafi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-abbelkadafi@gmail.com-0b0407?style=for-the-badge&logo=gmail&logoColor=f43f5e"/>
+<img src="https://img.shields.io/badge/EMAIL-abbelkadafi%40gmail.com-0b0407?style=for-the-badge&logo=gmail&logoColor=f43f5e"/>
 </a>
 &nbsp;
 <a href="https://discord.com/users/872842427038335037">
@@ -614,7 +614,7 @@ Connection terminated by remote host.
 </a>
 &nbsp;
 <a href="https://t.me/bellxss">
-<img src="https://img.shields.io/badge/TELEGRAM-@bellxss-0b0407?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+<img src="https://img.shields.io/badge/TELEGRAM-%40bellxss-0b0407?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
 </a>
 
 <br><br>
