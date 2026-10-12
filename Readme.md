@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/notbell1?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-05-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-07-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
 
 <a href="https://github.com/notbell1?tab=stars">
@@ -171,6 +171,99 @@ const developer = {
 ---
 
 # <div align="center"><b><font color="#ff3b30">PROJECTS</font></b></div>
+
+<div align="center">
+
+### `X E O O   A U D I T O R`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                    X E O O   A U D I T O R                   ║
+║                                                              ║
+║               PRIVACY-FIRST WEBSITE AUDITOR                  ║
+║                                                              ║
+║    SECURITY POSTURE       ███████████████████                ║
+║    SSL / TLS AUDIT        ████████████████████               ║
+║    PERFORMANCE & SEO      ██████████████████                 ║
+║    ZERO-PII EPHEMERAL     ████████████████████               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<a href="https://github.com/notbell1/xeoo-auditor">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a>
+<a href="https://xeooauditor.xo.je/">
+<img src="https://img.shields.io/badge/LIVE_PREVIEW-050505?style=for-the-badge&logo=googlechrome&logoColor=00ff9c"/>
+</a>
+
+<br><br>
+
+`TypeScript` `React 19` `Tailwind CSS v4` `Vite` `PHP` `MySQL` `Wuaze`
+
+</div>
+
+**XeooAuditor** adalah privacy-first public website auditing toolkit yang dirancang untuk memberikan diagnostik teknis mendalam (SSL/TLS, Security Headers, Performance, SEO, Privacy) secara instan tanpa registrasi akun, tanpa cookies pelacak, dan didukung pertahanan boundary SSRF.
+
+**Highlights**
+
+- Zero-account, zero-tracking public audit
+- Multi-vector audit engine (SSL/TLS, HTTP Security Headers, Performance, SEO, Privacy)
+- SSRF boundary firewall & IP verification
+- Ephemeral retention & zero-PII data model
+- Interactive scorecard (PASS, WARNING, FAIL)
+- Print-ready PDF report & JSON export
+- Operational admin dashboard & health monitoring
+- Full-viewport responsive architecture
+
+---
+
+<div align="center">
+
+### `X E O O   T O O L S`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                      X E O O   T O O L S                     ║
+║                                                              ║
+║               ALL-IN-ONE DEVELOPER TOOLKIT                   ║
+║                                                              ║
+║    CYBER & SECURITY       ███████████████████                ║
+║    DEV & UTILITIES        ██████████████████                 ║
+║    FILE & IMAGE LAB       ██████████████████                 ║
+║    MODULAR ARCHITECTURE   ████████████████████               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<a href="https://github.com/notbell1/xeoo-tools">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a>
+<a href="https://xeootools.site.je/">
+<img src="https://img.shields.io/badge/LIVE_PREVIEW-050505?style=for-the-badge&logo=googlechrome&logoColor=00ff9c"/>
+</a>
+
+<br><br>
+
+`TypeScript` `React` `Tailwind CSS` `PHP` `MySQL` `Vite`
+
+</div>
+
+**XeooTools** adalah platform online utilitas dan developer toolkit serbaguna yang menyatukan puluhan tools praktis (Security, CTF Lab, File, Image, Network, SEO, Productivity) dalam satu antarmuka modern yang cepat dan responsif.
+
+**Highlights**
+
+- Comprehensive security diagnostics & password analyzers
+- CTF challenge player & defacement lab
+- Client-side file & image processing
+- Network, DNS & IP geolocation lookup
+- Health, psychology, math & productivity calculators
+- Admin operational management dashboard
+- Consistent theme tokens & responsive design
+
+---
 
 <div align="center">
 
@@ -379,10 +472,11 @@ Privacy-focused Chrome extension untuk WhatsApp Web dengan configurable visual p
              ▼                           ▼                           ▼
     ┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
     │                 │        │                 │        │                 │
-    │      WEB        │        │   EXTENSIONS    │        │      EDITOR     │
+    │   WEB & APPS    │        │   EXTENSIONS    │        │      EDITOR     │
     │                 │        │                 │        │                 │
     │   PORTFOLIO     │        │   NTTBELL       │        │    ZX THEME     │
-    │                 │        │   ASSISTANT      │        │                 │
+    │   XEOOAUDITOR   │        │   ASSISTANT     │        │                 │
+    │   XEOOTOOLS     │        │                 │        │                 │
     └────────┬────────┘        └────────┬────────┘        └────────┬────────┘
              │                          │                          │
              └──────────────────────────┼──────────────────────────┘
@@ -533,7 +627,7 @@ Visual Studio Code
 > connecting GitHub...
 > preparing deployment...
 > scanning repositories...
-> projects detected: 4
+> projects detected: 6
 > system status: ONLINE
 
 [ READY ]
@@ -709,6 +803,8 @@ VS Code
 
     "repositories": [
         "portfolio",
+        "xeoo-auditor",
+        "xeoo-tools",
         "core-vitality",
         "zx-theme",
         "nttbell-assistant"
@@ -747,6 +843,14 @@ VS Code
 
 <a href="https://github.com/notbell1/portfolio">
 <img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a>
+
+<a href="https://github.com/notbell1/xeoo-auditor">
+<img src="https://img.shields.io/badge/XEOO_AUDITOR-050505?style=for-the-badge&logo=googlechrome&logoColor=00ff9c"/>
+</a>
+
+<a href="https://github.com/notbell1/xeoo-tools">
+<img src="https://img.shields.io/badge/XEOO_TOOLS-050505?style=for-the-badge&logo=googlechrome&logoColor=00ff9c"/>
 </a>
 
 <a href="https://github.com/notbell1/core-vitality">
