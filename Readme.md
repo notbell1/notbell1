@@ -3,7 +3,7 @@
 <!-- ======================================================== -->
 <!-- 🌌 HEADER ANIMASI DINAMIS (100% RESPONSIF) -->
 <!-- ======================================================== -->
-<img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/header.svg?v=fireworks" width="100%" alt="Header Notbell"/>
+<img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/header.gif" width="100%" alt="Header Notbell Kembang Api"/>
 
 <br>
 
