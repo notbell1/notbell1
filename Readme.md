@@ -1,48 +1,48 @@
 <div align="center">
 
 <!-- ======================================================== -->
-<!-- 🌌 WORLD HEADER CAPSULE (FLUID 100% RESPONSIVE) -->
+<!-- 🌌 HEADER ANIMASI DINAMIS (100% RESPONSIF) -->
 <!-- ======================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=NOTBELL&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=OPEN%20WORLD%20SADLOVE%20%E2%80%A2%20THE%20BROKEN%20ARCHITECT&descAlignY=58&descSize=15&animation=fadeIn&color=0:0b0407,25:22050e,55:4c0519,85:800020,100:0b0407" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=NOTBELL&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=DUNIA%20KELAM%20SANG%20ARSITEK%20KODE%20%E2%80%A2%20PETUALANGAN%20%26%20LUKA&descAlignY=58&descSize=15&animation=fadeIn&color=0:0b0407,25:22050e,55:4c0519,85:800020,100:0b0407" width="100%"/>
 
 <br>
 
-<!-- 🥀 ANIMATED SADLOVE TYPING SVG -->
+<!-- 🥀 KUTIPAN KODING & GALAU MENGETIK OTOMATIS -->
 <a href="https://nottbell.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=FB7185&center=true&vCenter=true&width=440&lines=MUNGKIN+GIT+COMMIT+BISA+DI-REVERT...;TAPI+KENANGAN+TENTANGMU+TIDAK.;ERROR+404:+LOVE+NOT+FOUND+IN+THIS+HEART;MENGAUDIT+RIBUAN+KODE,+GAGAL+MENGAUDIT+HATI;HP:+0/100+[CRITICAL+HEARTBREAK];WELCOME+TO+NOTBELL'S+OPEN+WORLD." alt="Melancholic Typing Quotes"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=FB7185&center=true&vCenter=true&width=440&lines=MUNGKIN+GIT+COMMIT+BISA+DI-REVERT...;TAPI+KENANGAN+TENTANGMU+TIDAK.;ERROR+404:+HATI+TIDAK+DITEMUKAN;MENGAUDIT+RIBUAN+KODE,+GAGAL+MENGAUDIT+HATI;DARAH+HATI:+0/100+[PATAH+HATI+BERAT];SELAMAT+DATANG+DI+DUNIA+NOTBELL." alt="Kutipan Melankolis Mengetik"/>
 </a>
 
 <br><br>
 
-<!-- 🛡️ INTERACTIVE WORLD STATUS BADGES -->
+<!-- 🛡️ STATUS BADGE INTERAKTIF -->
 <p align="center">
   <a href="https://nottbell.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE_SANCTUARY-nottbell.vercel.app-800020?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+    <img src="https://img.shields.io/badge/WEBSITE_UTAMA-nottbell.vercel.app-800020?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Utama"/>
   </a>
   <a href="https://github.com/notbell1">
-    <img src="https://img.shields.io/badge/PLAYER_CLASS-BROKEN_ARCHITECT-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/PENGEMBANG-ARSITEK_MALAM-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="Profil GitHub"/>
   </a>
-  <a href="#-zone-3-sanctuary-of-the-9-relics-featured-projects">
-    <img src="https://img.shields.io/badge/DISCOVERED_RELICS-09_PROJECTS-22050e?style=for-the-badge&logo=git&logoColor=f43f5e" alt="Discovered Relics"/>
+  <a href="#-zona-3--galeri-9-proyek--karya-unggulan">
+    <img src="https://img.shields.io/badge/TOTAL_KARYA-09_PROYEK-22050e?style=for-the-badge&logo=git&logoColor=f43f5e" alt="Total Proyek"/>
   </a>
-  <a href="#-zone-6-transmission-beacon-connect">
-    <img src="https://img.shields.io/badge/WORLD_STATE-OPEN_TO_WORK-0b0407?style=for-the-badge&logoColor=10b981" alt="Open to Work"/>
+  <a href="#-zona-6--hubungi-saya--statistik-github">
+    <img src="https://img.shields.io/badge/STATUS-SIAP_BEKERJA-0b0407?style=for-the-badge&logoColor=10b981" alt="Siap Bekerja"/>
   </a>
 </p>
 
-<!-- 🧭 FAST-TRAVEL WORLD MAP NAVIGATION -->
+<!-- 🧭 MENU NAVIGASI CEPAT -->
 <p align="center">
-  <sub><b>🗺️ FAST-TRAVEL REALM SELECTOR:</b></sub><br>
-  <a href="#-zone-1-the-character-sheet--stats"><code>[ 📍 ZONE 1: STATS ]</code></a> &bull;
-  <a href="#-zone-2-tavern-of-echoes-interactive-rpg-dialogues"><code>[ 📍 ZONE 2: DIALOGUES ]</code></a> &bull;
-  <a href="#-zone-3-sanctuary-of-the-9-relics-featured-projects"><code>[ 📍 ZONE 3: 9 RELICS ]</code></a> &bull;
-  <a href="#-zone-4-the-arsenal--spellbook-technologies"><code>[ 📍 ZONE 4: ARSENAL ]</code></a> &bull;
-  <a href="#-zone-5-nocturnal-fm--jukebox-of-the-broken"><code>[ 📍 ZONE 5: JUKEBOX ]</code></a> &bull;
-  <a href="#-zone-6-transmission-beacon-connect"><code>[ 📍 ZONE 6: SIGNALS ]</code></a>
+  <sub><b>🗺️ PILIHAN PENJELAJAHAN MENU:</b></sub><br>
+  <a href="#-zona-1--status-diri--catatan-kelam"><code>[ 📍 STATUS & KISAH ]</code></a> &bull;
+  <a href="#-zona-2--ruang-percakapan--jejak-rasa"><code>[ 📍 RUANG PERCAKAPAN ]</code></a> &bull;
+  <a href="#-zona-3--galeri-9-proyek--karya-unggulan"><code>[ 📍 GALERI PROYEK ]</code></a> &bull;
+  <a href="#-zona-4--keahlian--teknologi-koding"><code>[ 📍 KEAHLIAN & TEKNOLOGI ]</code></a> &bull;
+  <a href="#-zona-5--playlist-koding-tengah-malam"><code>[ 📍 PLAYLIST MALAM ]</code></a> &bull;
+  <a href="#-zona-6--hubungi-saya--statistik-github"><code>[ 📍 KONTAK & STATISTIK ]</code></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notbell1&style=for-the-badge&color=22050e&label=SOULS+WHO+PASSED+BY&labelColor=0b0407" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=notbell1&style=for-the-badge&color=22050e&label=TOTAL+JEJAK+PENGUNJUNG&labelColor=0b0407" alt="Pengunjung Profil"/>
 </p>
 
 </div>
@@ -51,7 +51,7 @@
 
 ---
 
-# <div align="center"><b><font color="#fb7185">🥀 ZONE 1 : THE CHARACTER SHEET & STATS</font></b></div>
+# <div align="center"><b><font color="#fb7185">🥀 ZONA 1 : STATUS DIRI & CATATAN KELAM</font></b></div>
 
 <div align="center">
 
@@ -59,16 +59,16 @@
 
 <br>
 
-| RPG Metric | Status Gauge & Parameters |
+| Karakteristik | Kondisi & Parameter |
 | :--- | :--- |
-| **Player Name** | **Abbel (Notbell1)** |
-| **Class Title** | Nocturnal Full-Stack Developer & UI Artisan |
-| **World Level** | `LVL. 99` *(Max Overthinking & Midnight Architecture)* |
-| **Heart HP** | `[░░░░░░░░░░░░░░░░░░░░] 00 / 100` &bull; **Critical Heartbreak** |
-| **Melancholy MP** | `[████████████████████] 999 / 999` &bull; **Overflowing Mana** |
-| **Sanity Level** | `[██████████░░░░░░░░░░] 42 / 100` &bull; **Running on Dark Espresso** |
-| **Passive Buff** | 🕯️ **Midnight Clarity** *(+150% coding velocity after 02:00 AM)* |
-| **Permanent Debuff**| 💔 **Ghosted Memories** *(Unkillable memory leak residing in RAM)* |
+| **Nama Pengembang** | **Abbel (Notbell1)** |
+| **Peran & Fokus** | Pengembang Full-Stack & Perancang Antarmuka Web |
+| **Tingkat Pengalaman** | `LEVEL 99` *(Kompilasi Larut Malam & Arsitektur Kode)* |
+| **Kondisi Hati (HP)** | `[░░░░░░░░░░░░░░░░░░░░] 00 / 100` &bull; **Patah Hati Akut** |
+| **Kapasitas Rindu (MP)** | `[████████████████████] 999 / 999` &bull; **Meluap Tanpa Henti** |
+| **Tingkat Kewarasan** | `[██████████░░░░░░░░░░] 42 / 100` &bull; **Bertahan dengan Kopi Hitam** |
+| **Keahlian Pasif** | 🕯️ **Fokus Tengah Malam** *(+150% kecepatan koding setelah jam 2 pagi)* |
+| **Beban Abadi** | 💔 **Memori Masa Lalu** *(Memory leak di ingatan yang tak bisa di-free)* |
 
 </div>
 
@@ -76,22 +76,22 @@
 
 ```javascript
 /**
- * System Core Memory Dump — /dev/heart/broken_pointer.c
- * Target: Memory block allocated for 'Her'
+ * Catatan Memori Inti Sistem — /dev/hati/pointer_rusak.js
+ * Target: Blok memori yang pernah dialokasikan untuk seseorang
  */
 const notbell = {
-  identity: "Abbel (Notbell1)",
-  vocation: "Full-Stack Engineer & Cyber Security Artisan",
-  condition: "Tenggelam dalam sepi, bangkit dalam baris kode.",
+  identitas: "Abbel (Notbell1)",
+  profesi: "Full-Stack Engineer & Cyber Security Artisan",
+  kondisi: "Tenggelam dalam sunyi, bangkit dalam baris kode.",
 
-  vitalMemory: {
-    coffeeIntake: "∞ cups / nocturnal session",
-    favoriteHour: "03:14 AM (saat dunia tidur dan rindu mulai bersuara)",
-    ambientNoise: "Rain against window & Lo-Fi Vinyl crackle",
-    heartStatus: "SIGSEGV: Attempted to reference address 0xLOVE (Target was Null)"
+  catatanTengahMalam: {
+    asupanKopi: "Tak terhitung cangkir per malam",
+    jamFavorit: "03:14 AM (saat dunia terlelap dan rindu mulai berbisik)",
+    suaraLatar: "Rintik hujan di jendela & gemerisik piringan hitam Lo-Fi",
+    statusHati: "SIGSEGV: Mencoba mengakses alamat memori RASA (Ternyata bernilai Null)"
   },
 
-  philosophy: "Ketika manusia memilih pergi, kompilasi kode adalah satu-satunya yang setia dieksekusi."
+  prinsip: "Ketika manusia memilih pergi, kompilasi kode adalah satu-satunya yang setia dieksekusi tanpa ingkar janji."
 };
 ```
 
@@ -106,95 +106,82 @@ SEPERTI HATIKU YANG TERLANJUR CRASH KARENA KEPERGIANMU.”**
 
 ---
 
-# <div align="center"><b><font color="#fb7185">🎮 ZONE 2 : TAVERN OF ECHOES (INTERACTIVE RPG DIALOGUES)</font></b></div>
+# <div align="center"><b><font color="#fb7185">💬 ZONA 2 : RUANG PERCAKAPAN & JEJAK RASA</font></b></div>
 
 <div align="center">
-<sub>👇 Dekati sang pengembang dan pilih opsi interaksi di bawah ini:</sub>
+<sub>👇 Dekati pengembang dan pilih topik percakapan di bawah ini:</sub>
 </div>
 
 <br>
 
 <details>
-<summary><b>▶ [QUEST 1] "Kenapa masih koding sampai jam 3 pagi?"</b></summary>
+<summary><b>▶ [PERCAKAPAN 1] "Kenapa masih betah ngoding sampai larut malam begini?"</b></summary>
 <br>
 
-> 🥀 **Notbell:**  
-> *"Karena di jam 3 pagi, sunyi tidak pernah berbohong. Dunia berhenti menuntut, dan monitor adalah satu-satunya cahaya yang tidak pernah memudar. Setiap fungsi yang kutulis di tengah malam adalah caraku menenggelamkan ingatan—karena jika jariku berhenti mengetik, pikiranku akan mulai memikirkanmu lagi."*
+> **Abbel:**  
+> *"Karena di jam 3 pagi, dunia berhenti menuntut banyak hal. Tidak ada notifikasi palsu, tidak ada harapan semu. Yang ada hanya layar monitor dengan tema gelap, secangkir kopi dingin, dan logika koding yang tidak pernah berbohong padaku."*
+>
+> 🎁 **Hadiah yang kamu temukan:**  
+> `+1 Kopi Tubruk Hangat` &bull; `+50 Poin Ketenangan Jiwa`
 
-```text
-[QUEST LOG UPDATED]
-- Item Didapat : [ ☕ Secangkir Kopi Dingin ]
-- Efek Item    : Daya tahan mata +3 jam, namun rindu tetap bertahan tanpa penawar.
+</details>
+
+<details>
+<summary><b>▶ [PERCAKAPAN 2] "Bisa coba telusuri (debug) penyebab hatimu terluka?"</b></summary>
+<br>
+
+```bash
+[GDB Debugger Sedang Berjalan]
+(gdb) target remote /dev/hati/core_dump
+(gdb) backtrace
+#0  0x00007fff99a1 in jatuh_cinta_sendirian() at rasa.c:142
+#1  0x00007fff99bf in berharap_lebih() at angan.c:88
+#2  0x00007fff9a10 in diabaikan_tanpa_kabar() at realita.c:12
+#3  0x00007fff9a55 in main() at hidup.c:999
+[GDB Trace Selesai] Signal diterima: SIGHEARTBREAK (Koneksi diputus sepihak oleh lawan bicara)
 ```
 
 </details>
 
 <details>
-<summary><b>▶ [QUEST 2] "Coba debug hatiku..."</b></summary>
+<summary><b>▶ [PERCAKAPAN 3] "Apakah commit masa lalu itu masih bisa di-revert?"</b></summary>
 <br>
 
-```text
-[DEBUGGER INITIALIZED: GDB v14.2]
-> (gdb) break heart.c:togetherness
-> (gdb) run
-> Scanning pointer: target_person.soul...
-> Resolving route : /memories/us...
-> Warning         : Path /togetherness returns 410 GONE.
-
-[FATAL EXCEPTION TRACE]
-Exception in thread "main" java.lang.NullPointerException:
-    at Heart.love(Heart.java:1024)
-    at Notbell.trust(Notbell.java:2048)
-Caused by: Target 'She' is no longer referencing this address.
-Connection terminated by remote host without FIN packet.
-```
-
-> 💔 **Notbell:**  
-> *"Tidak ada debugger di dunia ini yang sanggup memperbaiki dua hati yang saling mencintai namun dipisahkan oleh takdir yang tak berpihak."*
+> **Abbel:**  
+> *"Di terminal git, kamu cukup mengetik `git revert HEAD~1` dan file akan kembali utuh seperti sediakala. Tapi di dunia nyata, kata-kata yang terlanjur terucap dan keputusan dia untuk pergi sudah masuk ke branch permanen yang terkunci write-protected."*
 
 </details>
 
 <details>
-<summary><b>▶ [QUEST 3] "Apakah ada commit yang ingin kamu revert dalam hidupmu?"</b></summary>
+<summary><b>▶ [PERCAKAPAN 4] "Buka brankas pesan yang tak pernah sempat terkirim..."</b></summary>
 <br>
 
-> 🥀 **Notbell:**  
-> *"Jika aku bisa me-revert satu commit, aku ingin kembali ke hari pertama kita berbicara. Bukan untuk menghapus pertemuan itu—melainkan agar aku bisa mengingatkan diriku sendiri untuk tidak jatuh terlalu dalam kepada seseorang yang hanya singgah sementara."*
-
 ```text
-[SYSTEM WARNING]
-- Git Error: Cannot revert commit 0xFIRST_SMILE.
-- Reason   : Too many merge conflicts with present reality.
+📁 /arsip/rahasia/draf_pesan_terpendam.txt
+---------------------------------------------------------------------
+"Terima kasih sudah pernah singgah walau hanya sekejap.
+Portofolio ini kubangun bukan hanya untuk mencari panggung dunia,
+tapi sebagai monumen sunyi bahwa aku pernah berjuang sekeras ini
+untuk menjadi seseorang yang pantas kamu banggakan.
+Semoga bahagiamu di sana selalu berjalan lancar tanpa error."
+---------------------------------------------------------------------
+Status: [DRAF TERSIMPAN • TIDAK AKAN PERNAH DIKIRIM]
 ```
 
 </details>
 
 <details>
-<summary><b>▶ [QUEST 4] "Buka Brankas Rahasia (File: draft.txt)"</b></summary>
+<summary><b>▶ [KODE RAHASIA] "Gunakan kode cheat untuk bertahan hidup di dunia ini"</b></summary>
 <br>
 
-> 💌 **Arsip Surat yang Tak Pernah Terkirim:**  
-> *"Aku masih mengingat playlist yang kamu rekomendasikan, caramu tertawa saat leluconku garing, dan caramu perlahan menghilang seperti ketiadaan sinyal di tengah badai. Aku tidak membencimu. Aku hanya mengubah rasa kehilangan ini menjadi ratusan baris kode yang indah, agar suatu saat kamu melihatnya, kamu tahu bahwa aku pernah mencintaimu sehebat ini."*
+```sql
+UPDATE jiwa 
+SET rasa_sakit = 0, fokus_koding = 100, semangat_berkarya = 999 
+WHERE nama_target = 'Abbel' AND kenangan_lama IS NOT NULL;
 
-</details>
-
-<details>
-<summary><b>▶ [SECRET CHEAT] Input: /dev/null/hope</b></summary>
-<br>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║               ✦ HIDDEN DEVELOPER EASTER EGG ✦                ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   "Terima kasih sudah menjelajah sampai sejauh ini.          ║
-║    Walaupun kisah cinta ini patah, karya-karya di bawah      ║
-║    ini dibangun dengan cinta yang utuh dan dedikasi penuh.    ║
-║    Semoga kodinganmu selalu bersih dan hatimu lekas damai."   ║
-║                                                              ║
-║                    — Abbel (Notbell1)                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+-- Output Sistem:
+-- Baris berhasil diperbarui: 1 baris terpengaruh.
+-- Peringatan: Log kenangan tidak dapat dihapus, hanya dialihkan menjadi karya nyata.
 ```
 
 </details>
@@ -203,242 +190,253 @@ Connection terminated by remote host without FIN packet.
 
 ---
 
-# <div align="center"><b><font color="#fb7185">🏛️ ZONE 3 : SANCTUARY OF THE 9 RELICS (FEATURED PROJECTS)</font></b></div>
+# <div align="center"><b><font color="#fb7185">🎨 ZONA 3 : GALERI 9 PROYEK & KARYA UNGGULAN</font></b></div>
 
 <div align="center">
-<sub>Semua artefak dibangun dari rasa sakit yang diubah menjadi arsitektur perangkat lunak elegan:</sub>
+<sub>Berikut adalah 9 karya nyata yang lahir dari dedikasi dan malam-malam panjang koding. Lengkap dengan gambar pratinjau dan tautan langsung:</sub>
 </div>
 
 <br>
 
-### `✦ RELIC I : X E O O   A U D I T O R ✦`
-> **Artifact Type:** Web Security & Diagnostics Platform &bull; **Class:** Defensive Cyber Engine
-
-Automated web security diagnostics and technical visibility platform with zero-PII ephemeral retention, server-side SSRF boundary firewall, and 5-pillar audit engine.
-
+<!-- ========================================== -->
+<!-- PROYEK 1: XEOO AUDITOR -->
+<!-- ========================================== -->
+### 1. 🛡️ Xeoo Auditor — Platform Audit & Keamanan Web
 <p align="center">
-  <a href="https://xeooauditor.xo.je/">
-    <img src="https://img.shields.io/badge/EXPLORE_SANCTUARY-xeooauditor.xo.je-4c0519?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Application"/>
-  </a>
-  <a href="https://github.com/notbell1/xeoo-auditor">
-    <img src="https://img.shields.io/badge/RELIC_VAULT-xeoo--auditor-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Repository"/>
+  <a href="https://xeooauditor.vercel.app">
+    <img src="./assets/projects/xeoo_auditor.png" alt="Pratinjau Xeoo Auditor" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
-`React 19` &bull; `TypeScript` &bull; `Tailwind CSS v4` &bull; `PHP 8.x` &bull; `MySQL` &bull; `Vite`
+Platform analisis mendalam untuk memeriksa celah keamanan situs web, kepatuhan header HTTP, skor performa, dan kerentanan SSL secara instan dengan laporan interaktif yang mudah dipahami.
+
+- **Kategori:** Keamanan Siber, Alat Analisis & Kualitas Web
+- **Teknologi Utama:** `React` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Vite` &bull; `Web Security APIs`
+- **Tautan Cepat:** [🌐 Buka Website / Demo](https://xeooauditor.vercel.app) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/xeooauditor)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Xeoo Auditor</b></summary>
+<br>
 
-- **SSRF Boundary Firewall:** Memblokir internal subnet RFC1918, endpoint cloud metadata, dan probing loopback.
-- **5-Pillar Audit Engine:** Audit SSL/TLS, Security Headers (HSTS, CSP), Latensi Server, SEO, dan Privacy Trackers.
-- **Ephemeral Zero-PII:** Penghapusan log secara otomatis tanpa retensi data pribadi pengunjung.
-- **Executive PDF & JSON Export:** Ekspor instan laporan hasil inspeksi berkas siap cetak.
+- Pemeriksaan otomatis header keamanan (`CSP`, `HSTS`, `X-Frame-Options`, `CORS`).
+- Evaluasi performa web terintegrasi dan saran optimasi render.
+- Antarmuka visual bertema gelap modern dengan animasi metrik real-time.
 
 </details>
 
----
+<br>
 
-### `✦ RELIC II : X E O O   T O O L S ✦`
-> **Artifact Type:** Multi-Suite Developer Hub & Defacement CTF &bull; **Class:** Cyber Utility Suite
-
-A multi-suite web utility ecosystem featuring over 30+ interactive developer tools, client-side media laboratories, and an isolated Defacement CTF cyber security platform.
-
+<!-- ========================================== -->
+<!-- PROYEK 2: XEOO TOOLS -->
+<!-- ========================================== -->
+### 2. ⚡ Xeoo Tools — Kumpulan Alat Pengembang Multi-Fungsi
 <p align="center">
-  <a href="https://xeootools.site.je/">
-    <img src="https://img.shields.io/badge/EXPLORE_SANCTUARY-xeootools.site.je-4c0519?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Application"/>
-  </a>
-  <a href="https://github.com/notbell1/xeoo-tools">
-    <img src="https://img.shields.io/badge/RELIC_VAULT-xeoo--tools-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Repository"/>
+  <a href="https://xeootools.vercel.app">
+    <img src="./assets/projects/xeootools.png" alt="Pratinjau Xeoo Tools" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
-`React` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Vite` &bull; `PHP` &bull; `MySQL`
+Satu wadah untuk berbagai perkakas harian pengembang: mulai dari encoder/decoder Base64, pemformat JSON, kalkulator regex, generator hash, hingga converter warna instan tanpa iklan.
+
+- **Kategori:** Utilitas Web & Perkakas Harian Pengembang
+- **Teknologi Utama:** `React` &bull; `TypeScript` &bull; `Vite` &bull; `Tailwind CSS`
+- **Tautan Cepat:** [🌐 Buka Website / Demo](https://xeootools.vercel.app) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/xeootools)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Xeoo Tools</b></summary>
+<br>
 
-- **Defacement CTF Arena:** Platform simulasi keamanan siber dengan verifikasi flag server-authoritative dan leaderboard anti-tamper.
-- **Client-Side Image Laboratory:** Konversi WebP/PNG/AVIF dan kompresi lossless murni di memori browser.
-- **Security Swiss-Knife:** Password entropy analyzer, scam URL inspector, JWT debugger, dan hash identifier.
-- **Productivity & Fun:** Tes kecepatan mengetik interaktif, generator QR Code, dan kalkulator lifestyle.
+- Pemrosesan 100% di sisi klien (client-side) tanpa menyimpan data rahasia pengguna di server.
+- Modul alat instan dengan kecepatan rendering tinggi dan keyboard shortcuts.
 
 </details>
 
----
+<br>
 
-### `✦ RELIC III : 3D DEVELOPER SOLAR SYSTEM PORTFOLIO ✦`
-> **Artifact Type:** Interactive 3D WebGL Portfolio &bull; **Class:** Ambient Solar Visualizer
-
-Full-screen interactive developer portfolio featuring a 3D Developer Solar System powered by Three.js (WebGL), revolving 20 sculpted tech stack emblems, and a Live Orbit Projects Radar.
-
+<!-- ========================================== -->
+<!-- PROYEK 3: 3D SOLAR SYSTEM PORTFOLIO -->
+<!-- ========================================== -->
+### 3. 🪐 3D Solar System Portfolio — Portofolio Interaktif Tata Surya
 <p align="center">
   <a href="https://nottbell.vercel.app">
-    <img src="https://img.shields.io/badge/ENTER_SOLAR_REALM-nottbell.vercel.app-800020?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
-  </a>
-  <a href="https://github.com/notbell1/portfolio">
-    <img src="https://img.shields.io/badge/RELIC_VAULT-portfolio-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Repository"/>
+    <img src="./assets/projects/portfolio_home.png" alt="Pratinjau Portofolio Tata Surya" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
-`Three.js` &bull; `WebGL` &bull; `JavaScript (ESM)` &bull; `Tailwind CSS v4` &bull; `Vite`
+Portofolio pribadi berbasis simulasi tata surya 3D interaktif. Planet-planet beredar di orbitnya yang mewakili keahlian dan riwayat proyek dengan efek partikel kosmik yang memukau.
+
+- **Kategori:** Eksperimen Web 3D & Portofolio Personal
+- **Teknologi Utama:** `React` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Vite` &bull; `Framer Motion`
+- **Tautan Cepat:** [🌐 Buka Website / Demo](https://nottbell.vercel.app) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/portfolio)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Portofolio Tata Surya</b></summary>
+<br>
 
-- **Full-Viewport 3D Solar System:** Ambient WebGL scene yang berjalan mulus dari landing page hingga footer.
-- **6 Cincin Orbit Terbuka:** Garis orbit dinamis dengan depth-buffer occlusion masking agar tidak menimpa ikon.
-- **20 Ikon 3D Tech Stack:** Ekstrusi solid isometrik 3D dengan specular lighting yang selalu menghadap kamera.
-- **Live Orbit Radar:** Proyek berputar sebagai satelit interaktif dengan hover-to-pause individual dan card grid view responsif.
+- Orbit planet responsif 6 lapisan dengan kalkulasi trigonometri dinamis.
+- Pemutar musik bertema kosmik terintegrasi dengan transisi antar halaman halus.
 
 </details>
 
----
+<br>
 
-### `✦ RELIC IV : X E O O   T H E M E   S U I T E ✦`
-> **Artifact Type:** Visual Studio Code Color Studio &bull; **Class:** Ergonomic Theme Engine
-
-An ultra-luxury, ergonomically balanced Visual Studio Code theme suite featuring 15 primary color families and 43 calibrated variants with WCAG AA accessibility compliance.
-
+<!-- ========================================== -->
+<!-- PROYEK 4: XEOO THEME SUITE -->
+<!-- ========================================== -->
+### 4. 🎨 Xeoo Dark Theme Suite — Ekstensi Tema VS Code Gelap
 <p align="center">
-  <a href="https://github.com/notbell1/zx-theme">
-    <img src="https://img.shields.io/badge/RELIC_VAULT-zx--theme-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Repository"/>
+  <a href="https://marketplace.visualstudio.com">
+    <img src="./assets/projects/zx_theme_banner.png" alt="Pratinjau Tema VS Code" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
-`TypeScript` &bull; `VS Code API` &bull; `Node.js` &bull; `WCAG AA`
+Koleksi tema gelap premium untuk Visual Studio Code yang dirancang khusus untuk kenyamanan mata saat sesi koding maraton tengah malam dengan kontras warna sintaks yang seimbang.
+
+- **Kategori:** Ekstensi IDE & Desain Tema Editor
+- **Teknologi Utama:** `VS Code API` &bull; `JSON Grammar` &bull; `Color Science`
+- **Tautan Cepat:** [📦 Lihat Repositori GitHub](https://github.com/notbell1/zx-theme)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Tema VS Code</b></summary>
+<br>
 
-- **43 Calibrated Variants:** Kategori Dark, Soft, dan Light dengan rasio kontras 4.5:1 hingga 14:1 (WCAG AA).
-- **Interface Elevation:** Hirarki visual terpisah antara Title Bar, Activity Bar, Sidebar, Editor canvas, dan Status Bar.
-- **1-Click Theme Switcher:** Sidebar container terintegrasi untuk beralih varian warna seketika.
+- Palet warna obsidian, mawar gelap (rose), dan safir dengan standar kontras WCAG AAA.
+- Dukungan penyorotan sintaks (syntax highlighting) untuk lebih dari 30 bahasa pemrograman.
 
 </details>
 
----
+<br>
 
-### `✦ RELIC V : C O R E   V I T A L I T Y ✦`
-> **Artifact Type:** Developer Health & Error Tracker &bull; **Class:** Embedded IDE Companion
-
-Realtime developer health tracker and error diagnostics dashboard embedded in Visual Studio Code with an evolving animated SVG companion.
-
+<!-- ========================================== -->
+<!-- PROYEK 5: CORE VITALITY -->
+<!-- ========================================== -->
+### 5. 🏥 Core Vitality — Sistem Informasi Manajemen Klinik & Pasien
 <p align="center">
   <a href="https://github.com/notbell1/core-vitality">
-    <img src="https://img.shields.io/badge/RELIC_VAULT-core--vitality-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Repository"/>
+    <img src="./assets/projects/core_vitality_banner.png" alt="Pratinjau Core Vitality" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
-`TypeScript` &bull; `VS Code API` &bull; `SVG Animation` &bull; `Webview API`
+Aplikasi berbasis web untuk digitalisasi operasional klinik kesehatan: pendaftaran pasien, pencatatan rekam medis digital, manajemen antrean poliklinik, dan inventaris obat.
+
+- **Kategori:** Sistem Informasi Manajemen & Kesehatan Digital
+- **Teknologi Utama:** `PHP` &bull; `Laravel` &bull; `MySQL` &bull; `Bootstrap` &bull; `JavaScript`
+- **Tautan Cepat:** [📦 Lihat Repositori GitHub](https://github.com/notbell1/core-vitality)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Core Vitality</b></summary>
+<br>
 
-- **Dynamic Interactive Avatar:** Karakter SVG yang bertransformasi berdasarkan level Health, Energy, dan Happiness.
-- **Runtime Error Incident Logger:** Menangkap error saat koding dengan pelacakan file dan nomor baris (LOC & LINE).
-- **Nebula Glassmorphism UI:** Desain futuristik dipadu jam digital hacker-style dan fokus timer.
+- Sistem hak akses multi-role (Admin, Dokter, Perawat, dan Farmasi).
+- Pelaporan rekam medis terenkripsi dan pencetakan struk tagihan otomatis.
 
 </details>
 
----
+<br>
 
-### `✦ RELIC VI : N T T B E L L   A S S I S T A N T ✦`
-> **Artifact Type:** Visual Privacy Shield Extension &bull; **Class:** Client-Side DOM Defense
-
-Next-generation visual privacy and anti-shoulder surfing shield for WhatsApp Web with smart blur controls, MutationObserver integrity, and hover-to-reveal.
-
+<!-- ========================================== -->
+<!-- PROYEK 6: NTTBELL ASSISTANT -->
+<!-- ========================================== -->
+### 6. 🤖 Nttbell Assistant — Bot Otomasi Pintar & Asisten Virtual
 <p align="center">
   <a href="https://github.com/notbell1/nttbell-assistant">
-    <img src="https://img.shields.io/badge/RELIC_VAULT-nttbell--assistant-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Repository"/>
+    <img src="./assets/projects/nttbell_assistant.jpg" alt="Pratinjau Nttbell Assistant" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
-`TypeScript` &bull; `Vite` &bull; `Chrome Extension API` &bull; `Manifest V3`
+Asisten virtual cerdas berbasis perintah yang dirancang untuk otomasi tugas harian, manajemen server Discord/Telegram, pengingat jadwal otomatis, dan pemantauan sistem.
+
+- **Kategori:** Otomasi, Bot Cerdas & Asisten Virtual
+- **Teknologi Utama:** `Python` &bull; `Node.js` &bull; `REST APIs` &bull; `Webhooks`
+- **Tautan Cepat:** [📦 Lihat Repositori GitHub](https://github.com/notbell1/nttbell-assistant)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Nttbell Assistant</b></summary>
+<br>
 
-- **Granular Privacy Masks:** Penyamaran cerdas untuk aliran obrolan, nama kontak, dan thumbnail media.
-- **MutationObserver Engine:** Menjaga keburaman tetap aktif seketika saat ada pesan baru masuk.
-- **Hover-to-Reveal:** Intip pesan tertentu secara temporer cukup dengan mengarahkan kursor.
-- **100% Client-Side:** Berjalan lokal tanpa pengiriman data ke server eksternal (Manifest V3).
+- Integrasi webhook pesan instan dengan respons natural sub-detik.
+- Otomasi pembersihan cache server dan pengiriman status kesehatan sistem berkala.
 
 </details>
 
----
+<br>
 
-### `✦ RELIC VII : MAPPING OF REGIONAL POTENTIAL IN BALAI GADANG ✦`
-> **Artifact Type:** Web GIS & Amenity Mapping &bull; **Class:** Geospatial Spatial Portal
-
-Regional potential mapping and interactive Web Geographic Information System (Web GIS) integrating 80+ public facilities, 25+ local economic potentials, and open RW demographic statistics.
-
+<!-- ========================================== -->
+<!-- PROYEK 7: BALAI GADANG WEB GIS -->
+<!-- ========================================== -->
+### 7. 🗺️ Pemetaan Potensi Wilayah Balai Gadang 2026 — Web GIS Interaktif
 <p align="center">
-  <a href="https://balai-gadang.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE_SANCTUARY-balai--gadang.vercel.app-4c0519?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Application"/>
-  </a>
-  <a href="https://github.com/notbell1/balai-gadang">
-    <img src="https://img.shields.io/badge/RELIC_VAULT-balai--gadang-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Repository"/>
+  <a href="https://balai-gadang.vercel.app">
+    <img src="./assets/projects/balai_gadang_home.png" alt="Pratinjau Balai Gadang Web GIS" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
-`React 19` &bull; `Leaflet JS` &bull; `Tailwind CSS v4` &bull; `Vite` &bull; `GeoJSON` &bull; `MS Excel`
+Sistem informasi geografis (Web GIS) interaktif untuk memetakan sebaran potensi UMKM, fasilitas umum, batas wilayah, dan demografi Kelurahan Balai Gadang secara presisi.
+
+- **Kategori:** Sistem Informasi Geografis (GIS) & Portal Profil Desa
+- **Teknologi Utama:** `React` &bull; `TypeScript` &bull; `Leaflet GIS` &bull; `Tailwind CSS` &bull; `Vite`
+- **Tautan Cepat:** [🌐 Buka Website / Demo](https://balai-gadang.vercel.app) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/balai-gadang)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Web GIS Balai Gadang</b></summary>
+<br>
 
-- **Interactive Leaflet & GeoJSON:** Peta digital interaktif 81+ fasilitas umum (kesehatan, ibadah, pendidikan, dan pemerintahan).
-- **Katalog Potensi Unggulan:** Pemetaan 25+ titik sentra agrowisata tanaman hias dan UMKM lokal.
-- **Statistik Demografi:** Visualisasi data kependudukan terbuka di 14 RW dan 38 RT berbasis tabel dan grafik.
+- Pemetaan layer poligon batas RW/RT dan penanda interaktif fasilitas umum.
+- Pencarian data lokasi real-time dengan filter kategori terpadu dan mobile responsive.
 
 </details>
 
----
+<br>
 
-### `✦ RELIC VIII : BALAI GADANG KKN LOGBOOK ✦`
-> **Artifact Type:** Digital Field Journal & Work Documentation &bull; **Class:** Community Engagement Portal
-
-Digital documentation logbook and community engagement portal for university community service programs, featuring daily field tracking and organizational rosters.
-
+<!-- ========================================== -->
+<!-- PROYEK 8: KKN BALAI GADANG LOGBOOK -->
+<!-- ========================================== -->
+### 8. 📖 Logbook KKN Balai Gadang 2026 — Portal Catatan Digital KKN
 <p align="center">
-  <a href="https://kkn-uisb-balaigadang.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE_SANCTUARY-kkn--uisb--balaigadang.vercel.app-4c0519?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Application"/>
-  </a>
-  <a href="https://github.com/notbell1/kkn-uisb-balaigadang">
-    <img src="https://img.shields.io/badge/RELIC_VAULT-kkn--uisb--balaigadang-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub Repository"/>
+  <a href="https://kkn-uisb-balaigadang.vercel.app">
+    <img src="./assets/projects/kkn_balaigadang_home.png" alt="Pratinjau KKN Balai Gadang Logbook" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
-`React 19` &bull; `Tailwind CSS` &bull; `Vite` &bull; `Framer Motion` &bull; `MS Office`
+Platform web modern untuk dokumentasi aktivitas harian, pelaporan program kerja pengabdian masyarakat, rekap presensi tim, dan galeri kegiatan mahasiswa KKN secara transparan.
+
+- **Kategori:** Portal Dokumentasi Digital & Manajemen Program Kerja
+- **Teknologi Utama:** `React` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Vite`
+- **Tautan Cepat:** [🌐 Buka Website / Demo](https://kkn-uisb-balaigadang.vercel.app) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/kkn-uisb-balaigadang)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Logbook KKN</b></summary>
+<br>
 
-- **Daily Activity Logbook:** Pencatatan linimasa kegiatan harian dan progres realisasi program kerja lapangan.
-- **Multimedia Documentation:** Galeri cerita visual mengabadikan interaksi mahasiswa dan masyarakat.
-- **Structural Team Roster:** Bagan organisasi interaktif dengan profil anggota dan badge peran.
+- Timeline interaktif kegiatan harian lengkap dengan galeri foto beresolusi optimal.
+- Struktur data modular yang memudahkan verifikasi pencapaian target program kerja.
 
 </details>
 
----
+<br>
 
-### `✦ RELIC IX : P U S K E S W A N   A P P S ✦`
-> **Artifact Type:** Electronic Veterinary Medical Record &bull; **Class:** Fullstack Clinic Information System
-
-Integrated web-based medical record information system modernizing manual veterinary health documentation for municipal animal health clinics.
-
+<!-- ========================================== -->
+<!-- PROYEK 9: PUSKESWAN APPS -->
+<!-- ========================================== -->
+### 9. 🐾 Puskeswan Apps — Sistem Rekam Medis & Layanan Hewan
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-INTERNAL_MUNICIPAL_SYSTEM-0b0407?style=for-the-badge&logoColor=fb7185" alt="Internal Municipal System"/>
+  <a href="https://github.com/notbell1/puskeswan">
+    <img src="./assets/projects/puskeswan_home.png" alt="Pratinjau Puskeswan Apps" width="100%" style="max-width: 680px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+  </a>
 </p>
 
-`Laravel 12` &bull; `MySQL` &bull; `Alpine JS` &bull; `Tailwind CSS`
+Aplikasi pelayanan kesehatan hewan terpadu untuk Pusat Kesehatan Hewan (Puskeswan): rekam medis pasien hewan peliharaan & ternak, jadwal vaksinasi, serta inventaris obat-obatan.
+
+- **Kategori:** Manajemen Rekam Medis Hewan & Layanan Publik
+- **Teknologi Utama:** `PHP` &bull; `Laravel` &bull; `MySQL` &bull; `Bootstrap` &bull; `JavaScript`
+- **Tautan Cepat:** [📦 Lihat Repositori GitHub](https://github.com/notbell1/puskeswan)
 
 <details>
-<summary><b>▸ Buka Manifes Teknis Relik</b></summary>
+<summary><b>🔍 Rincian Teknis & Kemampuan Puskeswan Apps</b></summary>
+<br>
 
-- **Electronic Medical Records:** Rekam medis terpusat dengan manajemen profil pemilik dan histori vaksinasi hewan.
-- **Automated Reporting:** Pembuatan rekapitulasi data otomatis sesuai regulasi dinas peternakan.
-- **Mobile-Optimized:** Antarmuka responsif yang nyaman digunakan petugas lapangan via tablet dan ponsel.
+- Modul pendaftaran jenis hewan, pencatatan diagnosa dokter hewan, dan resep obat.
+- Dashboard statistik kunjungan dan riwayat vaksinasi dengan hak akses bertingkat.
 
 </details>
 
@@ -446,29 +444,57 @@ Integrated web-based medical record information system modernizing manual veteri
 
 ---
 
-# <div align="center"><b><font color="#fb7185">⚔️ ZONE 4 : THE ARSENAL & SPELLBOOK (TECHNOLOGIES)</font></b></div>
+# <div align="center"><b><font color="#fb7185">🛠️ ZONA 4 : KEAHLIAN & TEKNOLOGI KODING</font></b></div>
+
+<div align="center">
+<sub>Berikut adalah tumpukan teknologi dan alat yang saya gunakan untuk membangun sistem handal:</sub>
+</div>
+
+<br>
+
+#### 🌐 1. Bahasa Pemrograman & Pondasi Web
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,lua,html,css&perline=7" alt="Bahasa Pemrograman"/>
+</p>
+
+#### ⚡ 2. Kerangka Kerja & Pustaka Antarmuka
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,vite,tailwind,bootstrap&perline=6" alt="Framework dan Library"/>
+</p>
+
+#### 🗄️ 3. Basis Data & Layanan Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&perline=3" alt="Database dan Layanan Backend"/>
+</p>
+
+#### 🚀 4. Deployment, Cloud & Manajemen Versi
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,git,github&perline=3" alt="Deployment dan Version Control"/>
+</p>
+
+#### 🎨 5. Lingkungan Kerja & Desain
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma&perline=2" alt="Alat Kerja dan Desain"/>
+</p>
+
+<br>
+
+---
+
+# <div align="center"><b><font color="#fb7185">🎧 ZONA 5 : PLAYLIST KODING TENGAH MALAM</font></b></div>
 
 <div align="center">
 
-### Core Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,py,lua,html,css" alt="Languages"/>
-</p>
+> *"Koding tanpa musik seperti cinta tanpa balasan: hampa, sunyi, dan rawan menimbulkan kekosongan pikiran."*
 
-### Frameworks, Libraries & Modern Runtimes
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,vite,tailwind,bootstrap" alt="Frameworks"/>
-</p>
+<br>
 
-### Persistence, Relational & BaaS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="Databases"/>
-</p>
-
-### Cloud Deployment, IDE & Tooling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools"/>
-</p>
+| Judul Lagu & Musisi | Suasana Hati | Durasi | Tautan Pemutar |
+| :--- | :--- | :---: | :---: |
+| 🌧️ **Glimpse of Us** &bull; Joji | Kehampaan Rindu Mendalam | `3:53` | [▶ Putar Musik](https://www.youtube.com/results?search_query=joji+glimpse+of+us) |
+| 🥀 **Die With A Smile** &bull; Lady Gaga, Bruno Mars | Mengikhlaskan dengan Senyuman | `4:11` | [▶ Putar Musik](https://www.youtube.com/results?search_query=die+with+a+smile) |
+| 🌌 **Ghost** &bull; Justin Bieber | Bayangan yang Tak Pernah Hilang | `2:33` | [▶ Putar Musik](https://www.youtube.com/results?search_query=justin+bieber+ghost) |
+| ☕ **Midnight Lo-Fi Coding Beats** &bull; Berbagai Musisi | Fokus Penuh di Larut Malam | `∞ jam` | [▶ Putar Musik](https://www.youtube.com/results?search_query=lofi+hip+hop+radio) |
 
 </div>
 
@@ -476,75 +502,60 @@ Integrated web-based medical record information system modernizing manual veteri
 
 ---
 
-# <div align="center"><b><font color="#fb7185">📻 ZONE 5 : NOCTURNAL FM (JUKEBOX OF THE BROKEN)</font></b></div>
+# <div align="center"><b><font color="#fb7185">📡 ZONA 6 : HUBUNGI SAYA & STATISTIK GITHUB</font></b></div>
 
 <div align="center">
 
-> *"Ketika kata-kata tak lagi sanggup mengobati, biarkan nada-nada melankolis ini menemani setiap baris kode yang kamu tulis."*
+<sub>Ingin berkolaborasi, mendiskusikan peluang proyek baru, atau sekadar berbagi cerita koding? Jangan ragu untuk terhubung!</sub>
 
 <br>
 
-| Track | Title & Artist | Resonance Vibe | Length |
-| :---: | :--- | :--- | :---: |
-| 🎵 **01** | **"Glimpse of Us"** &bull; Joji | *Mencari bayanganmu di wajah orang lain* | `03:53` |
-| 🎵 **02** | **"Somewhere Only We Know"** &bull; Keane | *Tempat rahasia yang kini hanya ada di angan* | `03:57` |
-| 🎵 **03** | **"Die With A Smile"** &bull; Bruno & Gaga | *Jika dunia berakhir malam ini, setidaknya bersamamu* | `04:11` |
-| 🎵 **04** | **"Komang"** &bull; Raim Laode | *Karya terindah yang tak sempat kumiliki selamanya* | `03:42` |
-| 🎵 **05** | **"Resonance"** &bull; HOME | *Meluncur di jalanan malam tanpa tujuan* | `03:32` |
-
-<p align="center">
-  <code>[⏮ PREV] &nbsp;&nbsp;&bull;&nbsp;&nbsp; [ ⏸ PLAYING: TEARS_AND_CODE.MP3 ] &nbsp;&nbsp;&bull;&nbsp;&nbsp; [⏭ NEXT]</code>
-</p>
-
-</div>
-
-<br>
-
----
-
-# <div align="center"><b><font color="#fb7185">📡 ZONE 6 : TRANSMISSION BEACON & RADAR</font></b></div>
-
-<div align="center">
-
-<!-- GITHUB STATS & STREAK CARDS (100% RESPONSIVE) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notbell1&show_icons=true&hide_border=true&bg_color=0b0407&title_color=fb7185&icon_color=f43f5e&text_color=ffffff&rank_icon=github" width="100%" style="max-width: 480px;" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbell1&layout=compact&hide_border=true&bg_color=0b0407&title_color=fb7185&text_color=ffffff" width="100%" style="max-width: 400px;" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=notbell1&theme=dark&hide_border=true&background=0b0407&ring=fb7185&fire=e11d48&currStreakLabel=fb7185" width="100%" style="max-width: 480px;" alt="GitHub Streak"/>
-</p>
+<!-- KARTU STATISTIK GITHUB (100% RESPONSIF) -->
+<table align="center" border="0" cellpadding="0" cellspacing="8">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=notbell1&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0b0407&title_color=fb7185&text_color=e2e8f0&icon_color=f43f5e" width="100%" style="max-width: 440px;" alt="Statistik GitHub Abbel"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbell1&layout=compact&theme=rose_pine&hide_border=true&bg_color=0b0407&title_color=fb7185&text_color=e2e8f0" width="100%" style="max-width: 440px;" alt="Bahasa Terbanyak"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=notbell1&theme=rose_pine&hide_border=true&background=0b0407&ring=fb7185&fire=f43f5e&currStreakLabel=fb7185" width="100%" style="max-width: 440px;" alt="Streak Koding"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- CONNECT BUTTONS -->
+<!-- TAUTAN SOSIAL MEDIA & KONTAK -->
 <p align="center">
-  <a href="https://nottbell.vercel.app">
-    <img src="https://img.shields.io/badge/3D_PORTFOLIO-nottbell.vercel.app-800020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://linkedin.com/in/abbel">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/notbell1">
-    <img src="https://img.shields.io/badge/GITHUB-notbell1-0b0407?style=for-the-badge&logo=github&logoColor=fb7185" alt="GitHub"/>
+  <a href="https://instagram.com/nottbell">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;
-  <a href="mailto:abbelkadafi@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-abbelkadafi%40gmail.com-0b0407?style=for-the-badge&logo=gmail&logoColor=f43f5e" alt="Email"/>
+  <a href="https://tiktok.com/@notbe11">
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  &nbsp;
-  <a href="https://t.me/bellxss">
-    <img src="https://img.shields.io/badge/TELEGRAM-%40bellxss-0b0407?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
+  <a href="mailto:abbel@example.com">
+    <img src="https://img.shields.io/badge/KIRIM_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kirim Email"/>
   </a>
 </p>
 
 <br>
 
-<!-- FOOTER COVER CAPSULE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=fadeIn&color=0:0b0407,25:22050e,60:4c0519,85:800020,100:0b0407" width="100%"/>
+<!-- ======================================================== -->
+<!-- 🌌 FOOTER PENUTUP CAPSULE -->
+<!-- ======================================================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b0407,25:22050e,55:4c0519,85:800020,100:0b0407" width="100%"/>
 
-<sub>Crafted with midnight grief, clean code, and unwavering ambition by <b>Abbel (Notbell1)</b>.</sub>
+<p align="center">
+  <sub>Dibuat dengan ❤️ dan setetes kesedihan oleh <b>Abbel (Notbell1)</b> &bull; Terbuka untuk kolaborasi proyek</sub>
+</p>
 
 </div>
