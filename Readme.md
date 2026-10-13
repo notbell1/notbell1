@@ -9,7 +9,7 @@
 
 <!-- 🥀 KUTIPAN KODING & GALAU MENGETIK OTOMATIS -->
 <a href="https://nottbell.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=FB7185&center=true&vCenter=true&width=440&lines=MUNGKIN+GIT+COMMIT+BISA+DI-REVERT...;TAPI+KENANGAN+TENTANGMU+TIDAK.;ERROR+404:+HATI+TIDAK+DITEMUKAN;MENGAUDIT+RIBUAN+KODE,+GAGAL+MENGAUDIT+HATI;DARAH+HATI:+0/100+[PATAH+HATI+BERAT];SELAMAT+DATANG+DI+DUNIA+NOTBELL." alt="Kutipan Melankolis Mengetik"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=300000&pause=900&color=FB7185&center=true&vCenter=true&width=440&lines=MUNGKIN+GIT+COMMIT+BISA+DI-REVERT...;TAPI+KENANGAN+TENTANGMU+TIDAK.;ERROR+404:+HATI+TIDAK+DITEMUKAN;MENGAUDIT+RIBUAN+KODE,+GAGAL+MENGAUDIT+HATI;DARAH+HATI:+0/100+[PATAH+HATI+BERAT];SELAMAT+DATANG+DI+DUNIA+NOTBELL." alt="Kutipan Melankolis Mengetik"/>
 </a>
 
 <br><br>
@@ -202,7 +202,7 @@ WHERE nama_target = 'Abbel';
 <!-- ========================================== -->
 ### 1. 🛡️ Xeoo Auditor — Platform Audit & Keamanan Web
 <p align="center">
-  <a href="https://xeooauditor.vercel.app">
+  <a href="https://xeootools.site.je/">
     <img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/projects/xeoo_auditor.png" alt="Pratinjau Xeoo Auditor" width="100%" />
   </a>
 </p>
@@ -257,7 +257,7 @@ Satu wadah untuk berbagai perkakas harian pengembang: mulai dari encoder/decoder
 <!-- ========================================== -->
 ### 3. 🪐 3D Solar System Portfolio — Portofolio Interaktif Tata Surya
 <p align="center">
-  <a href="https://nottbell.vercel.app">
+  <a href="https://xeooauditor.xo.je/">
     <img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/projects/portfolio_home.png" alt="Pratinjau Portofolio Tata Surya" width="100%" />
   </a>
 </p>
