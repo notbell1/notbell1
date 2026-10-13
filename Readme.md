@@ -3,7 +3,7 @@
 <!-- ======================================================== -->
 <!-- 🌌 HEADER ANIMASI DINAMIS (100% RESPONSIF) -->
 <!-- ======================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=NOTBELL&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=DUNIA%20KELAM%20SANG%20ARSITEK%20KODE%20%E2%80%A2%20PETUALANGAN%20%26%20LUKA&descAlignY=58&descSize=15&animation=fadeIn&color=0:0b0407,25:22050e,55:4c0519,85:800020,100:0b0407" width="100%" alt="Header Notbell"/>
+<img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/header.svg" width="100%" alt="Header Notbell"/>
 
 <br>
 
@@ -550,8 +550,8 @@ Aplikasi pelayanan kesehatan hewan terpadu untuk Pusat Kesehatan Hewan (Puskeswa
   <a href="https://instagram.com/nottbell">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://tiktok.com/@notbe11">
-    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  <a href="https://t.me/bellxss">
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:abbel@example.com">
     <img src="https://img.shields.io/badge/KIRIM_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kirim Email"/>
@@ -563,7 +563,7 @@ Aplikasi pelayanan kesehatan hewan terpadu untuk Pusat Kesehatan Hewan (Puskeswa
 <!-- ======================================================== -->
 <!-- 🌌 FOOTER PENUTUP CAPSULE -->
 <!-- ======================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b0407,25:22050e,55:4c0519,85:800020,100:0b0407" width="100%" alt="Footer Penutup"/>
+<img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/footer.svg" width="100%" alt="Footer Penutup"/>
 
 <p align="center">
   <sub>Dibuat dengan ❤️ dan setetes kesedihan oleh <b>Abbel (Notbell1)</b> &bull; Terbuka untuk kolaborasi proyek</sub>
