@@ -202,7 +202,7 @@ WHERE nama_target = 'Abbel';
 <!-- ========================================== -->
 ### 1. 🛡️ Xeoo Auditor — Platform Audit & Keamanan Web
 <p align="center">
-  <a href="https://xeootools.site.je/">
+  <a href="https://xeooauditor.xo.je/">
     <img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/projects/xeoo_auditor.png" alt="Pratinjau Xeoo Auditor" width="100%" />
   </a>
 </p>
@@ -211,7 +211,7 @@ Platform analisis mendalam untuk memeriksa celah keamanan situs web, kepatuhan h
 
 - **Kategori:** Keamanan Siber, Alat Analisis & Kualitas Web
 - **Teknologi Utama:** `React` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Vite` &bull; `Web Security APIs`
-- **Tautan Cepat:** [🌐 Buka Website / Demo](https://xeooauditor.vercel.app) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/xeooauditor)
+- **Tautan Cepat:** [🌐 Buka Website / Demo](https://xeooauditor.xo.je/) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/xeooauditor)
 
 <details>
 <summary><b>🔍 Rincian Teknis & Kemampuan Xeoo Auditor</b></summary>
@@ -230,7 +230,7 @@ Platform analisis mendalam untuk memeriksa celah keamanan situs web, kepatuhan h
 <!-- ========================================== -->
 ### 2. ⚡ Xeoo Tools — Kumpulan Alat Pengembang Multi-Fungsi
 <p align="center">
-  <a href="https://xeootools.vercel.app">
+  <a href="https://xeootools.site.je/">
     <img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/projects/xeootools.png" alt="Pratinjau Xeoo Tools" width="100%" />
   </a>
 </p>
@@ -239,7 +239,7 @@ Satu wadah untuk berbagai perkakas harian pengembang: mulai dari encoder/decoder
 
 - **Kategori:** Utilitas Web & Perkakas Harian Pengembang
 - **Teknologi Utama:** `React` &bull; `TypeScript` &bull; `Vite` &bull; `Tailwind CSS`
-- **Tautan Cepat:** [🌐 Buka Website / Demo](https://xeootools.vercel.app) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/xeootools)
+- **Tautan Cepat:** [🌐 Buka Website / Demo](https://xeootools.site.je/) &bull; [📦 Lihat Repositori GitHub](https://github.com/notbell1/xeootools)
 
 <details>
 <summary><b>🔍 Rincian Teknis & Kemampuan Xeoo Tools</b></summary>
@@ -257,7 +257,7 @@ Satu wadah untuk berbagai perkakas harian pengembang: mulai dari encoder/decoder
 <!-- ========================================== -->
 ### 3. 🪐 3D Solar System Portfolio — Portofolio Interaktif Tata Surya
 <p align="center">
-  <a href="https://xeooauditor.xo.je/">
+  <a href="https://nottbell.vercel.app">
     <img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/projects/portfolio_home.png" alt="Pratinjau Portofolio Tata Surya" width="100%" />
   </a>
 </p>
