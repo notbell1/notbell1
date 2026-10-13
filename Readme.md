@@ -9,7 +9,7 @@
 
 <!-- 🥀 KUTIPAN KODING & GALAU MENGETIK OTOMATIS -->
 <a href="https://nottbell.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=300000&pause=900&color=FB7185&center=true&vCenter=true&width=440&lines=MUNGKIN+GIT+COMMIT+BISA+DI-REVERT...;TAPI+KENANGAN+TENTANGMU+TIDAK.;ERROR+404:+HATI+TIDAK+DITEMUKAN;MENGAUDIT+RIBUAN+KODE,+GAGAL+MENGAUDIT+HATI;DARAH+HATI:+0/100+[PATAH+HATI+BERAT];SELAMAT+DATANG+DI+DUNIA+NOTBELL." alt="Kutipan Melankolis Mengetik"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=900&color=FB7185&center=true&vCenter=true&width=440&lines=MUNGKIN+GIT+COMMIT+BISA+DI-REVERT...;TAPI+KENANGAN+TENTANGMU+TIDAK.;ERROR+404:+HATI+TIDAK+DITEMUKAN;MENGAUDIT+RIBUAN+KODE,+GAGAL+MENGAUDIT+HATI;DARAH+HATI:+0/100+[PATAH+HATI+BERAT];SELAMAT+DATANG+DI+DUNIA+NOTBELL." alt="Kutipan Melankolis Mengetik"/>
 </a>
 
 <br><br>
