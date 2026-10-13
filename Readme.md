@@ -547,13 +547,13 @@ Aplikasi pelayanan kesehatan hewan terpadu untuk Pusat Kesehatan Hewan (Puskeswa
   <a href="https://linkedin.com/in/abbel">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/nottbell">
+  <a href="https://instagram.com/_ntbbll">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://t.me/bellxss">
     <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:abbel@example.com">
+  <a href="mailto:abbelkadafi@gmail.com">
     <img src="https://img.shields.io/badge/KIRIM_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kirim Email"/>
   </a>
 </p>
