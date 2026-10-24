@@ -205,7 +205,7 @@ WHERE nama_target = 'Abbel';
 <br>
 
 <p align="center">
-  <a href="https://github.com/notbell1/puskeswanapp"><img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/projects/puskeswan_home.png" width="48%" alt="PuskeswanApp V.2.0.0 Hero Section" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3);"/></a>
+  <a href="https://github.com/notbell1/puskeswanapp"><img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/projects/puskeswan_v2_hero.png" width="48%" alt="PuskeswanApp V.2.0.0 Hero Section" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3);"/></a>
   <a href="https://balai-gadang.vercel.app/"><img src="https://raw.githubusercontent.com/notbell1/notbell1/main/assets/projects/balai_gadang_home.png" width="48%" alt="Balai Gadang Web GIS" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3);"/></a>
 </p>
 
