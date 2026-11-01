@@ -1,49 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="100%" height="100%">
+  <rect x="4" y="8" width="1192" height="76" rx="16" fill="#040406"/>
+  <rect x="4" y="4" width="1192" height="74" rx="16" fill="#121217" stroke="#27272a" stroke-width="2.5"/>
 
-      <svg
-        width="854"
-        height="120"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 120"
-      >
-        <style>
-      .text {   font-size: 70px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } path {   transform: rotate(180deg);   transform-origin: 50% 50%;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0b0407"/><stop offset="25%" stop-color="#22050e"/><stop offset="55%" stop-color="#4c0519"/><stop offset="85%" stop-color="#800020"/><stop offset="100%" stop-color="#0b0407"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z;M0 0L 0 65Q 213.5 80 427 60T 854 50L 854 0 Z;M0 0L 0 85Q 213.5 55 427 85T 854 50L 854 0 Z;M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 40 427 40T 854 60L 854 0 Z;M0 0L 0 65Q 213.5 45 427 70T 854 85L 854 0 Z;M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         
-        
-      </svg>
-    
+  <g transform="translate(36, 23)">
+    <rect x="0" y="0" width="34" height="34" rx="8" fill="#171717" stroke="#800020" stroke-width="1.8"/>
+    <path d="M17 7.2L9.2 26.2H13.0L14.7 22.2H19.3L21.0 26.2H24.8L17 7.2ZM15.9 18.7L17 12.6L18.1 18.7H15.9Z" fill="#FFFFFF"/>
+    <text x="46" y="22" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="800" fill="#ffffff">Abbel</text>
+    <text x="98" y="22" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#a1a1aa">• Web Development &amp; Junior Cyber Security</text>
+  </g>
+
+  <g transform="translate(860, 23)" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="700">
+    <rect x="0" y="3" width="304" height="34" rx="9" fill="#040406"/>
+    <rect x="0" y="0" width="304" height="34" rx="9" fill="#181820" stroke="#800020" stroke-width="1.5"/>
+    <text x="152" y="21" fill="#ff8fa3" text-anchor="middle">nottbell.vercel.app • © 2026 ABBEL</text>
+  </g>
+</svg>
